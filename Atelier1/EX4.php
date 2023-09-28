@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>document</title>
+  </head>
+ 
+  <body>
+  <?phP
+$nom=HajYahia;
+$Pre=Sarah;
+$full=$nom.$pre;
+?>
+    <table><tr>
+        <td>nom</td>
+        <td>prenom</td>
+    </tr>
+    <tr>
+        <td><?=$nom?></td>
+        <td><?=$Pre?></td>
+    </tr>
+
+    </table>
+    
+  </body>
+</html>
+
